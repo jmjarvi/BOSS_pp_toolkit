@@ -20,7 +20,7 @@ These scripts plot the identified local minima of the model as energy plateaus t
 
 `plot_directory_local-minima_graph.py` Local minima of all post-processed iterartions
 
-## Model cross-sections
+## Model analysis
 
 These scripts help to visualize the model as 1D and 2D cross-sections.
 
