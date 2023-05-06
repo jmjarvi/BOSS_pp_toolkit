@@ -6,9 +6,9 @@ The BOSS code can be downloaded at https://gitlab.com/cest-group/boss
 
 Reference literature:
 
-Todorović et al., Bayesian inference of atomistic structure in functional materials, npj Comput. Mater. 5, 35 (2019) https://doi.org/10.1038/s41524-019-0175-2
+Todorović et al., Bayesian inference of atomistic structure in functional materials, *npj Comput. Mater.* **5**, 35 (2019) https://doi.org/10.1038/s41524-019-0175-2
 
-Järvi et al., Detecting stable adsorbates of (1S)-camphor on Cu(111) with Bayesian optimization, Beilstein J. Nanotechnol. 11, 1577 (2020) https://doi.org/10.3762/bjnano.11.140
+Järvi et al., Detecting stable adsorbates of (1S)-camphor on Cu(111) with Bayesian optimization, *Beilstein J. Nanotechnol.* **11**, 1577 (2020) https://doi.org/10.3762/bjnano.11.140
 
 ## Local minima evaluation
 
